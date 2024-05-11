@@ -16,6 +16,7 @@ A simple Angular project template to use with the [`Project Templates`](https://
 - `routing` disabled.
 - `CSS` stylesheet format.
 - `Server-Side Rendering (SSR)` and `Static Site Generation (SSG)` disabled.
+- `Bootstrap3` included.
 
 ### Variable placeholders
 
